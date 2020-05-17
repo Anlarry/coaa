@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+    \PYG{n}{特权指令}  \PYG{n}{ERET} \PYG{n}{MFC0} \PYG{n}{MTC0}  \PYG{n}{opcode}\PYG{o}{=}\PYG{l+m+mi}{010} \PYG{l+m+mi}{000}
+    \PYG{n}{自陷指令}  \PYG{n}{BREAK} \PYG{n}{SYSCALL}   \PYG{n}{func}\PYG{p}{[}\PYG{l+m+mi}{5}\PYG{p}{:}\PYG{l+m+mi}{3}\PYG{p}{]}\PYG{o}{=}\PYG{l+m+mi}{001}
+\end{Verbatim}

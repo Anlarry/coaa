@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+    \PYG{n}{class1} \PYG{n}{func}\PYG{p}{[}\PYG{l+m+mi}{5}\PYG{o}{:}\PYG{l+m+mi}{3}\PYG{p}{]} \PYG{l+m+mi}{100} \PYG{o}{:} \PYG{n}{ADD} \PYG{n}{ADDU} \PYG{n}{SUB} \PYG{n}{SUBU}   \PYG{n}{AND} \PYG{n}{NOR} \PYG{n}{OR} \PYG{n}{XOR}
+    \PYG{n}{class2} \PYG{n}{func}\PYG{p}{[}\PYG{l+m+mi}{5}\PYG{o}{:}\PYG{l+m+mi}{3}\PYG{p}{]} \PYG{l+m+mi}{101} \PYG{o}{:} \PYG{n}{SLT} \PYG{n}{SLTU}
+    \PYG{n}{class3} \PYG{n}{func}\PYG{p}{[}\PYG{l+m+mi}{5}\PYG{o}{:}\PYG{l+m+mi}{3}\PYG{p}{]} \PYG{l+m+mo}{011} \PYG{o}{:} \PYG{n}{DIV} \PYG{n}{DIVU} \PYG{n}{MULT} \PYG{n}{MULTU}
+\end{Verbatim}

@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+    \PYG{n}{BEQ}  \PYG{n}{BNE}  \PYG{n}{BGEZ}   \PYG{n}{BQTZ}
+    \PYG{n}{BLEZ} \PYG{n}{BLTZ} \PYG{n}{BGEZAL} \PYG{n}{BLTZAL}
+\end{Verbatim}
