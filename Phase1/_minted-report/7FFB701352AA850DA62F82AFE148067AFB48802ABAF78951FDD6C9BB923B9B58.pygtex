@@ -1,4 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-    \PYG{n}{ADDI} \PYG{n}{ADDIU} \PYG{n}{SLTI} \PYG{n}{SLTIU}
-    \PYG{n}{ANDI} \PYG{n}{LUI}   \PYG{n}{ORI}  \PYG{n}{XORI}
-\end{Verbatim}

@@ -1,3 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-\PYG{n}{ADD}\PYG{p}{(}\PYG{n}{U}\PYG{p}{)} \PYG{n}{SUB}\PYG{p}{(}\PYG{n}{U}\PYG{p}{)} \PYG{n}{SLT}\PYG{p}{(}\PYG{n}{U}\PYG{p}{)} \PYG{n}{DIV}\PYG{p}{(}\PYG{n}{U}\PYG{p}{)} \PYG{n}{MULT}\PYG{p}{(}\PYG{n}{U}\PYG{p}{)}
-\end{Verbatim}
